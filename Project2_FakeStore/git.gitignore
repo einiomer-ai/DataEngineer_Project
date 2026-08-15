@@ -1,0 +1,9 @@
+# Data files
+*.db
+*.sqlite
+*.parquet
+*.csv
+
+# Python environment & cache
+__pycache__/
+.venv/
