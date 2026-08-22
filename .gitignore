@@ -7,3 +7,6 @@
 # Python environment & cache
 __pycache__/
 .venv/
+
+gcp-key.json
+*.json
